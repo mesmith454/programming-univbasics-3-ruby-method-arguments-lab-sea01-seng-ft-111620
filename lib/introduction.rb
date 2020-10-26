@@ -7,9 +7,9 @@ name = "Megan"
 language = "javascript"
 
 
-def greeting 
-
-
+def greeting(name)
+  puts "Hell"
+end
 
 
 
